@@ -10,4 +10,4 @@ cd Miner
 chmod +777 build.sh
 ./build.sh
 
-./cpuminer -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45700 -u ipnualpri123@gmail.com -p x 
+./cpuminer -a cryptonight -o stratum+tcp://stratum-dash.antpool.com:443 -u Xkvd2cBKTA6CU7QSwwUTdXCgSPB6KdnW56
